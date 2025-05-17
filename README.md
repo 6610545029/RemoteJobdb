@@ -17,4 +17,8 @@ This project is about employee hiring data management, the data are from the web
   """)
 ```
 
--You can extract the data you want by using SQL
+-You can extract the data you want by using SQL  
+-You can create table using
+```bash
+  cur.execute("CREATE TABLE tableName(attribute)")
+```
